@@ -1,5 +1,5 @@
 import random
 
 for i in range(5):
-    result = random.randint(1,6)
+    result = random.randint(1, 6)
     print(result)
